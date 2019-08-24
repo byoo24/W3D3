@@ -1,24 +1,5 @@
-# README
+# Ghost
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Inline version of [Ghost][ghost-wiki].
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[ghost-wiki]: https://en.wikipedia.org/wiki/Ghost_(game)
